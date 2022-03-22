@@ -1,0 +1,8 @@
+recollect/management
+recollect/dataset
+recollect/.env
+*/__pycache__/
+.DS_Store
+
+
+
